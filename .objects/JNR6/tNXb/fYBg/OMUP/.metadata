@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Employees'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "OMUP3PeqZ0SngN67nxsxgQ",
+  "Reference": "V8CSQ-eEFEaGzWAf4RcAPQ/OMUP3PeqZ0SngN67nxsxgQ",
+  "ParentRef": "V8CSQ-eEFEaGzWAf4RcAPQ/fYBgYLFR9kWGm9ixmUGH2g",
+  "Created": "2024-08-13T10:33:30.1979053Z",
+  "Updated": "2024-08-13T10:33:30.1979053Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

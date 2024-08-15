@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cEH65JXoG0aOH-rVIDnPOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CVScreenId="88d6784f-3771-4858-b3b2-d13a6b41f365" CvElementArea="1593, 391, 46, 38" CvType="Icon" DesignTimeRectangle="1596, 393, 40, 35" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='I' type='' class='far fa-address-card card' aaname='' /&gt;" Guid="b161b9b0-14e7-4e25-8fa5-7d233ceabf78" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACwAAAAnCAYAAAB0Q6rCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVFhH7Zc/a9tAGIf7nbxoMARMIEOWaKmgNJsDMRSaISKDl+IOIoPx4kDIEJFFkwtxIaCA3SGoi7IYChoCR0HQ4TDoK/wSJ1J0h9/EkX3iFOrhWU6/9/Rwun/6kCQJ3hNr4bJ5/8I8CjEejStBGHHJbYYgzBH0LBi1GmoVwvzug00JYT7qVE72CQPtn/G8cHAshBomrE+WXraM3Oc4WCAsBHTBvNZauFSUC7PfHpyv6Xzbs3E2YmRuWRQKc4Qnu+SOYj7UcbKmOMqE+Y2D7Sw3hwH7Mt+CRNj1Gbq97isMEHIhr0aYw/8m5Ci+DMCIWql/kha8uzyvSJjB2xdyFI0+AqKW//HhkiObcjGWTjTtI1wU7XM4iScIiAvOMzeRtGCVCS+7S2iawzlF9+HJeVO+K8zRgR/neeXCZfMfCk8Zxqc2mh83YdQ3sXvkwP2RLpgrD92jJsxGDRs7TdizQ0D4vDMmp2beP0W9jaGyKfEvgLMjPH8LjQMMoryPoCfcb0mULboYw8NFL3uBzy6irB8eI/77GvL/2/LC3Ecnay+MPGpFWF74zkMray+MDuF4CDtrL0wLA5b2U5CVFh375dIXlgW4K1zqVxLWwVq4bBYKhyfbeaBiGD1COLntwyTC+jHRv00dJeEH2LUDq04VaaJuoX0ZPfvNkIQfmXLi2NQDF/7xMuaFK85auFwS3APgtGv0sffhzAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="88d6784f-3771-4858-b3b2-d13a6b41f365" CvTextArea="1655, 398, 176, 23" CvTextArgument="[EmployeeName]" CvType="Text" DesignTimeRectangle="1655, 399, 176, 22" ElementType="Text" FullSelectorArgument="&lt;webctrl class='name' tag='DIV' /&gt;" FuzzyMatches="10000" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl class='name' tag='DIV' type='' aaname='{0}' check:innerText='{0}' /&gt;&quot;, EmployeeName)]" Guid="6b3d2905-c13d-4fc9-853a-ed405972c7bc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6994d15a9a884d91705b4fefd3c5cd3f.png" xmlns="">0Ms9IKOlDi0akD2WFOQixzQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="EmployeeName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

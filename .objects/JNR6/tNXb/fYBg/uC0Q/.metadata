@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click Employee",
+  "Type": "Element",
+  "Id": "uC0QzJpzu0-v6dqRNm064Q",
+  "Reference": "V8CSQ-eEFEaGzWAf4RcAPQ/uC0QzJpzu0-v6dqRNm064Q",
+  "ParentRef": "V8CSQ-eEFEaGzWAf4RcAPQ/fYBgYLFR9kWGm9ixmUGH2g",
+  "Created": "2024-08-13T10:33:39.8510959Z",
+  "Updated": "2024-08-13T10:33:39.8510959Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
